@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software or evidence archive, please cite the associated article and this archived release."
+title: "CET-PSCA: code and evidence archive for breast ultrasound lesion segmentation"
+type: software
+version: 1.0.2
+date-released: 2026-09-06
+authors:
+  - family-names: Wei
+    given-names: Gaixing
+    affiliation: "School of Big Data and Artificial Intelligence, Nanning College of Technology, Nanning, Guangxi 530105, China"
+  - family-names: Zeng
+    given-names: Da
+    affiliation: "School of Big Data and Artificial Intelligence, Nanning College of Technology, Nanning, Guangxi 530105, China"
+  - family-names: Qin
+    given-names: Shenglin
+    affiliation: "School of Big Data and Artificial Intelligence, Nanning College of Technology, Nanning, Guangxi 530105, China"
+  - family-names: Zeng
+    given-names: Dezhen
+    affiliation: "School of Big Data and Artificial Intelligence, Nanning College of Technology, Nanning, Guangxi 530105, China"
+  - family-names: Zhu
+    given-names: Yan
+    affiliation: "First People's Hospital of Jiangxia District (Xiehe Jiangnan Hospital), Wuhan, Hubei, China"
+abstract: >-
+  Reproducibility archive for breast ultrasound lesion segmentation,
+  including the manuscript-facing BCMR-Net entry point, phase-semantic
+  contour arbitration (PSCA), and complementary evidence transfer (CET).
+  The archive contains code, locked protocols, derived metrics, figure
+  source data, and editable diagrams, but no raw clinical data or model
+  checkpoints.
+keywords:
+  - breast ultrasound
+  - image segmentation
+  - knowledge distillation
+  - contour arbitration
+  - boundary calibration
+  - reproducibility
+license: MIT
+repository-code: "https://github.com/weigaixing/CET-PSCA"
+doi: "10.5281/zenodo.22536370"
